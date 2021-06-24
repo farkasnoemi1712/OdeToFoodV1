@@ -7,7 +7,6 @@ C:\workspace\c#\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.dll
 C:\workspace\c#\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.pdb
 C:\workspace\c#\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.Views.dll
 C:\workspace\c#\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.Views.pdb
-C:\workspace\c#\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csprojAssemblyReference.cache
 C:\workspace\c#\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.AssemblyInfoInputs.cache
 C:\workspace\c#\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.AssemblyInfo.cs
 C:\workspace\c#\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csproj.CoreCompileInputs.cache
@@ -41,3 +40,4 @@ C:\workspace\c#\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
 C:\workspace\c#\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Detail.cshtml.g.cs
 C:\workspace\c#\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\NotFound.cshtml.g.cs
 C:\workspace\c#\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Edit.cshtml.g.cs
+C:\workspace\c#\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csproj.AssemblyReference.cache
